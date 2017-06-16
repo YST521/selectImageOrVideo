@@ -1,0 +1,11 @@
+#ignore system files
+.*
+!.gitignore
+build/
+
+
+#ignore Xcode part proj files
+
+MISImagePicker.xcodeproj/.*
+MISImagePicker.xcodeproj/project.xcworkspace/
+MISImagePicker.xcodeproj/xcuserdata/
